@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 	<name>gson rpc</name>
 	<properties>
-		<springVersion>3.0.4.RELEASE</springVersion>
+		<springVersion>3.2.5.RELEASE</springVersion>
 		<slf4jVersion>1.6.1</slf4jVersion>
 		<jettyVersion>6.0.2</jettyVersion>
 	</properties>
